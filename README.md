@@ -1,3 +1,5 @@
+![Swift](imgs/swift.png)
+
 # Оглавление
 1. [Основы Swift](#основы-swift)
     - [var vs let](#var-vs-let)
